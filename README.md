@@ -3,6 +3,7 @@
 AutoJs6 官方文档（https://docs.autojs6.com）的完整本地化编译版，供编写 AutoJs6 脚本时检索与引用。
 
 - 建立时间：2026-09-22
+- 文档基线：上游 v6.7.0（2026-03-14）
 - 原文规模：131 份文档 / 2.0 MB，API 条目 2444 条
 - 上游项目：https://github.com/SuperMonster003/AutoJs6
 
@@ -18,6 +19,7 @@ AutoJs6 官方文档（https://docs.autojs6.com）的完整本地化编译版，
 | [05-文件-存储-网络-数据库.md](05-文件-存储-网络-数据库.md) | files / storages / http / sqlite / zip |
 | [06-文档总目录131页.md](06-文档总目录131页.md) | 官方 9 大分组目录，附摘要与 API 数量 |
 | [07-API速查表-2444条.md](07-API速查表-2444条.md) | 全量 API 签名速查，含所有重载与最低版本 |
+| [RELEASES.md](RELEASES.md) | 上游版本历史（Release Notes 正文，不含 APK），按版本反查 API 新增 / 变更 / 废弃 |
 
 ## 怎么用
 
